@@ -1,0 +1,17 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="C:\Users\HP\Pictures\ao_cheeki_breeki_face.jpg" />
+            </array>
+          </option>
+          <option name="shrink" value="true" />
+          <option name="shrinkValue" value="50" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>

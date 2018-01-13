@@ -1,0 +1,70 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://git.iandh.nl/" />
+    <option name="token" value="XhHbAFPkt9Uoz_GsTZqU" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/New-android-app.git" />
+          <option name="name" value="New-android-app" />
+          <option name="namespace" value="scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/New-android-app.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/new-scriba.git" />
+          <option name="name" value="new-scriba" />
+          <option name="namespace" value="scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/new-scriba.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba.git" />
+          <option name="name" value="scriba" />
+          <option name="namespace" value="scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-android.git" />
+          <option name="name" value="scriba-android" />
+          <option name="namespace" value="scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-android.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-frontend.git" />
+          <option name="name" value="scriba-frontend" />
+          <option name="namespace" value="scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-frontend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/Scriba-ios.git" />
+          <option name="name" value="Scriba-ios" />
+          <option name="namespace" value="scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/Scriba-ios.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-new-frontend.git" />
+          <option name="name" value="scriba-new-frontend" />
+          <option name="namespace" value="scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-new-frontend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-react.git" />
+          <option name="name" value="scriba-react" />
+          <option name="namespace" value="scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-react.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-react-redux.git" />
+          <option name="name" value="scriba-react-redux" />
+          <option name="namespace" value="scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-react-redux.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/Stannio/scriba-react-redux.git" />
+          <option name="name" value="scriba-react-redux" />
+          <option name="namespace" value="Stannio" />
+          <option name="sshUrl" value="git@git.iandh.nl:Stannio/scriba-react-redux.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>

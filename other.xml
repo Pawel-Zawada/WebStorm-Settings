@@ -1,0 +1,25 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="6.2.1" last-modified="1464897354000" />
+      <npm-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://scribaeu.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id}</commitMessageFormat>
+      <password>dff9dfcfdfd8dfc8dfc3dfcbdf9bdf99df9f</password>
+      <option name="inCloud" value="true" />
+      <option name="jiraVersion" value="1001.0.0-SNAPSHOT" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="project = &quot;SR&quot; and sprint in openSprints() and assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>zawadapawelmail</username>
+    </JIRA>
+  </component>
+</application>
