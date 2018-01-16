@@ -1,61 +1,151 @@
 <application>
   <component name="SettingsState">
     <option name="host" value="https://git.iandh.nl/" />
-    <option name="token" value="XhHbAFPkt9Uoz_GsTZqU" />
+    <option name="token" value="qVtJUeVDyRMs4r2vG4jb" />
     <option name="projects">
       <list>
         <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/legacy-schedular.git" />
+          <option name="name" value="legacy-schedular" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/legacy-schedular.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/project-internus.git" />
+          <option name="name" value="project-internus" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/project-internus.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/project-internus-android.git" />
+          <option name="name" value="project-internus-android" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/project-internus-android.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/project-internus-ios.git" />
+          <option name="name" value="project-internus-ios" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/project-internus-ios.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/schedular-admin.git" />
+          <option name="name" value="schedular-admin" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/schedular-admin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/schedular-api-java.git" />
+          <option name="name" value="schedular-api-java" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/schedular-api-java.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/schedular-b2b-platform.git" />
+          <option name="name" value="schedular-b2b-platform" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/schedular-b2b-platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/schedular-migrations.git" />
+          <option name="name" value="schedular-migrations" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/schedular-migrations.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/schedular-website.git" />
+          <option name="name" value="schedular-website" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/schedular-website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/schedular_api.git" />
+          <option name="name" value="schedular_api" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/schedular_api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/schedular_wachtkamerapp.git" />
+          <option name="name" value="schedular_wachtkamerapp" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/schedular_wachtkamerapp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/structure_and_process.git" />
+          <option name="name" value="structure_and_process" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/structure_and_process.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/todo-android-crud.git" />
+          <option name="name" value="todo-android-crud" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/todo-android-crud.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/schedular/watcher.git" />
+          <option name="name" value="watcher" />
+          <option name="namespace" value="schedular" />
+          <option name="sshUrl" value="git@git.iandh.nl:schedular/watcher.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="https://git.iandh.nl/scriba/New-android-app.git" />
           <option name="name" value="New-android-app" />
-          <option name="namespace" value="scriba" />
+          <option name="namespace" value="Scriba" />
           <option name="sshUrl" value="git@git.iandh.nl:scriba/New-android-app.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://git.iandh.nl/scriba/new-scriba.git" />
           <option name="name" value="new-scriba" />
-          <option name="namespace" value="scriba" />
+          <option name="namespace" value="Scriba" />
           <option name="sshUrl" value="git@git.iandh.nl:scriba/new-scriba.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba.git" />
           <option name="name" value="scriba" />
-          <option name="namespace" value="scriba" />
+          <option name="namespace" value="Scriba" />
           <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-android.git" />
           <option name="name" value="scriba-android" />
-          <option name="namespace" value="scriba" />
+          <option name="namespace" value="Scriba" />
           <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-android.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-feathers-api.git" />
+          <option name="name" value="scriba-feathers-api" />
+          <option name="namespace" value="Scriba" />
+          <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-feathers-api.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-frontend.git" />
           <option name="name" value="scriba-frontend" />
-          <option name="namespace" value="scriba" />
+          <option name="namespace" value="Scriba" />
           <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-frontend.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://git.iandh.nl/scriba/Scriba-ios.git" />
           <option name="name" value="Scriba-ios" />
-          <option name="namespace" value="scriba" />
+          <option name="namespace" value="Scriba" />
           <option name="sshUrl" value="git@git.iandh.nl:scriba/Scriba-ios.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-new-frontend.git" />
           <option name="name" value="scriba-new-frontend" />
-          <option name="namespace" value="scriba" />
+          <option name="namespace" value="Scriba" />
           <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-new-frontend.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-react.git" />
           <option name="name" value="scriba-react" />
-          <option name="namespace" value="scriba" />
+          <option name="namespace" value="Scriba" />
           <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-react.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://git.iandh.nl/scriba/scriba-react-redux.git" />
           <option name="name" value="scriba-react-redux" />
-          <option name="namespace" value="scriba" />
+          <option name="namespace" value="Scriba" />
           <option name="sshUrl" value="git@git.iandh.nl:scriba/scriba-react-redux.git" />
         </ProjectDto>
         <ProjectDto>
